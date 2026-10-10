@@ -1,0 +1,333 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "Lotro007",
+      "password_hash": "$2a$10$XsYDlTb7AUSBcSw92nxB9.fQ1oI0XKT0Wl.GCqUA3y1cdpOIx6hcK",
+      "created_at": 1791487142,
+      "avatar": "/uploads/avatars/avatar-Lotro007-1791490949728.jpg",
+      "last_seen": 1791626357
+    },
+    {
+      "id": 2,
+      "username": "alice",
+      "password_hash": "$2a$10$9nyNFfVZStdPR8ACgeF2uO862gs.fYRn1T.Ng9oaLjFUp7ef3U.B2",
+      "created_at": 1791487218,
+      "last_seen": 1791575335
+    }
+  ],
+  "messages": [
+    {
+      "from_user": "alice",
+      "to_user": "Lotro007",
+      "text": "Привет",
+      "created_at": 1791487227,
+      "read_at": 1791490724
+    },
+    {
+      "from_user": "alice",
+      "to_user": "Lotro007",
+      "text": "ты сосал?",
+      "created_at": 1791488645,
+      "read_at": 1791490724
+    },
+    {
+      "from_user": "Lotro007",
+      "to_user": "alice",
+      "type": "voice",
+      "audio_url": "/uploads/voice-1791489757015-1un114.webm",
+      "duration": 4,
+      "text": "",
+      "created_at": 1791489757,
+      "read_at": 1791490392
+    },
+    {
+      "from_user": "alice",
+      "to_user": "Lotro007",
+      "type": "text",
+      "text": "выфвфв",
+      "created_at": 1791490196,
+      "read_at": 1791490724
+    },
+    {
+      "from_user": "Lotro007",
+      "to_user": "alice",
+      "type": "text",
+      "text": "sddndnnjffjjf",
+      "created_at": 1791490736,
+      "read_at": 1791490736
+    },
+    {
+      "from_user": "Lotro007",
+      "to_user": "alice",
+      "type": "file",
+      "file_url": "/uploads/files/1791491176824-1ygg21-NIKA-KUBANSKOGO-GOSUDARSTVENNOGO-16-aspect-ratio-1520-620-2320x800-c-default.png",
+      "file_name": "KLINIKA-KUBANSKOGO-GOSUDARSTVENNOGO-16-aspect-ratio-1520-620-2320x800-c-default.png",
+      "file_size": 2299065,
+      "file_mime": "image/png",
+      "is_image": true,
+      "text": "",
+      "created_at": 1791491176,
+      "read_at": 1791492089
+    },
+    {
+      "from_user": "Lotro007",
+      "to_user": "alice",
+      "type": "file",
+      "file_url": "/uploads/files/1791491185774-z6q5vj-13_______________________________.xlsx",
+      "file_name": "13 Ð³ÑÑÐ¿Ð¿Ð° ÐÐÐ ÑÐµÑÑÑ.xlsx",
+      "file_size": 10687,
+      "file_mime": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "is_image": false,
+      "text": "",
+      "created_at": 1791491185,
+      "read_at": 1791492089
+    },
+    {
+      "from_user": "Lotro007",
+      "to_user": "alice",
+      "type": "file",
+      "file_url": "/uploads/files/1791491199800-uop177-________________________________________13______________2_______.pdf",
+      "file_name": "ÐÐ¸Ð¼ÑÐ¾ÑÐ¸ÑÐ¾Ð¿Ð¾ÑÐ· ÑÐ°ÑÑÐºÐ¾ 13 Ð³ÑÑÐ¿Ð¿Ð° 2 Ð¿ÐµÐ´.pdf",
+      "file_size": 1471633,
+      "file_mime": "application/pdf",
+      "is_image": false,
+      "text": "",
+      "created_at": 1791491199,
+      "read_at": 1791492089
+    },
+    {
+      "from_user": "Lotro007",
+      "to_user": "alice",
+      "type": "file",
+      "file_url": "/uploads/files/1791491366501-xq7x0s-____________________________________13________________________2_____________.pdf",
+      "file_name": "Ã_ÃÂ¸ÃÂ¼Ã_ÃÂ¾Ã_ÃÂ¸Ã_ÃÂ¾ÃÂ¿ÃÂ¾Ã_ÃÂ· Ã_ÃÂ°Ã_Ã_ÃÂºÃÂ¾ 13 ÃÂ³Ã_Ã_ÃÂ¿ÃÂ¿ÃÂ° 2 ÃÂ¿ÃÂµÃÂ´.pdf",
+      "file_size": 1471633,
+      "file_mime": "application/pdf",
+      "is_image": false,
+      "text": "",
+      "created_at": 1791491366,
+      "read_at": 1791492089
+    },
+    {
+      "from_user": "Lotro007",
+      "to_user": "alice",
+      "type": "file",
+      "file_url": "/uploads/files/1791491370612-3ug006-13_____________.xlsx",
+      "file_name": "13 Ð³ÑÑÐ¿Ð¿Ð°.xlsx",
+      "file_size": 11340,
+      "file_mime": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "is_image": false,
+      "text": "",
+      "created_at": 1791491370,
+      "read_at": 1791492089
+    },
+    {
+      "from_user": "Lotro007",
+      "to_user": "alice",
+      "type": "file",
+      "file_url": "/uploads/files/1791491549793-6qkm4bv9.xlsx",
+      "file_name": "13 группа.xlsx",
+      "file_size": 11340,
+      "file_mime": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "is_image": false,
+      "text": "",
+      "created_at": 1791491549,
+      "read_at": 1791492089
+    },
+    {
+      "from_user": "Lotro007",
+      "to_user": "alice",
+      "type": "text",
+      "text": "fff",
+      "created_at": 1791492086,
+      "read_at": 1791492089
+    },
+    {
+      "from_user": "Lotro007",
+      "to_user": "alice",
+      "type": "text",
+      "text": "Соси",
+      "created_at": 1791492101,
+      "read_at": 1791492101
+    },
+    {
+      "from_user": "Lotro007",
+      "to_user": "alice",
+      "type": "text",
+      "text": "Спишь сучка ?",
+      "created_at": 1791492414,
+      "read_at": 1791492414
+    },
+    {
+      "from_user": "Lotro007",
+      "to_user": "alice",
+      "type": "text",
+      "text": "Блин",
+      "created_at": 1791563037,
+      "read_at": 1791570654
+    },
+    {
+      "from_user": "Lotro007",
+      "to_user": "alice",
+      "type": "text",
+      "text": "Привет",
+      "created_at": 1791564239,
+      "read_at": 1791570654
+    },
+    {
+      "from_user": "alice",
+      "to_user": "Lotro007",
+      "type": "text",
+      "text": "Привет сучка",
+      "created_at": 1791570664,
+      "read_at": 1791570675
+    },
+    {
+      "from_user": "alice",
+      "to_user": "Lotro007",
+      "type": "text",
+      "text": "Сучка",
+      "created_at": 1791570741,
+      "read_at": 1791570744
+    },
+    {
+      "from_user": "Lotro007",
+      "to_user": "alice",
+      "type": "text",
+      "text": "/",
+      "created_at": 1791571222,
+      "read_at": 1791571366
+    },
+    {
+      "from_user": "Lotro007",
+      "to_user": "alice",
+      "type": "text",
+      "text": "/",
+      "created_at": 1791571239,
+      "read_at": 1791571366
+    },
+    {
+      "from_user": "Lotro007",
+      "to_user": "alice",
+      "type": "text",
+      "text": "/",
+      "created_at": 1791571246,
+      "read_at": 1791571366
+    },
+    {
+      "from_user": "Lotro007",
+      "to_user": "alice",
+      "type": "text",
+      "text": "соси",
+      "created_at": 1791571332,
+      "read_at": 1791571366
+    },
+    {
+      "from_user": "alice",
+      "to_user": "Lotro007",
+      "type": "text",
+      "text": "Сам соси",
+      "created_at": 1791571371,
+      "read_at": 1791571371
+    },
+    {
+      "id": 1,
+      "from_user": "Lotro007",
+      "to_user": "alice",
+      "type": "text",
+      "text": "gbljh",
+      "created_at": 1791571496,
+      "read_at": 1791572360,
+      "deleted": false,
+      "deleted_for": [],
+      "reactions": {},
+      "reply_to": null
+    },
+    {
+      "id": 2,
+      "from_user": "Lotro007",
+      "to_user": "alice",
+      "type": "text",
+      "text": "сам соси",
+      "created_at": 1791571683,
+      "read_at": 1791572360,
+      "deleted": false,
+      "deleted_for": [],
+      "reactions": {},
+      "reply_to": null
+    },
+    {
+      "id": 3,
+      "from_user": "Lotro007",
+      "to_user": "alice",
+      "type": "text",
+      "text": "мама",
+      "created_at": 1791571893,
+      "read_at": 1791572360,
+      "deleted": false,
+      "deleted_for": [],
+      "reactions": {},
+      "reply_to": null
+    },
+    {
+      "id": 4,
+      "from_user": "Lotro007",
+      "to_user": "alice",
+      "type": "text",
+      "text": "dd",
+      "created_at": 1791572300,
+      "read_at": 1791572360,
+      "deleted": false,
+      "deleted_for": [],
+      "reactions": {
+        "❤️": [
+          "alice",
+          "Lotro007"
+        ]
+      },
+      "reply_to": null
+    },
+    {
+      "id": 5,
+      "from_user": "alice",
+      "to_user": "Lotro007",
+      "type": "text",
+      "text": "Сам такой",
+      "created_at": 1791572373,
+      "read_at": 1791572373,
+      "deleted": false,
+      "deleted_for": [],
+      "reactions": {},
+      "reply_to": 4
+    },
+    {
+      "id": 6,
+      "from_user": "Lotro007",
+      "to_user": "alice",
+      "type": "text",
+      "text": "",
+      "created_at": 1791572379,
+      "read_at": 1791572379,
+      "deleted": true,
+      "deleted_for": [],
+      "reactions": {},
+      "reply_to": null,
+      "audio_url": null,
+      "file_url": null
+    },
+    {
+      "id": 7,
+      "from_user": "Lotro007",
+      "to_user": "alice",
+      "type": "text",
+      "text": "я",
+      "created_at": 1791574607,
+      "read_at": 1791574901,
+      "deleted": false,
+      "deleted_for": [],
+      "reactions": {},
+      "reply_to": 5
+    }
+  ]
+}
